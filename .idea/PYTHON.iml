@@ -2,7 +2,10 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/大战外星人" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/获取免费音乐" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/获取免费音乐" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.7 (PYTHON)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />

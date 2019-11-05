@@ -1,4 +1,6 @@
 import pygame
+
+
 class Ship():
 	def __init__(self, ai_settings, screen):
 		self.screen = screen
