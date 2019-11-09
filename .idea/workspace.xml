@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3c51fae-8f1e-4cfe-95a5-213de8279d1b" name="默认的" comment="默认的">
-      <change afterPath="$PROJECT_DIR$/spider/spiderl练习/学习爬虫练习/post练习.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/spiderl练习/小说/书趣阁/一本小说.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/urllib函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spider/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spider/spiderl练习/小说/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spider/spiderl练习/小说/书趣阁/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spider/spiderl练习/小说/书趣阁/书趣阁.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/异常处理.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/spiderl练习/1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/书趣阁.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider/书趣阁.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/喜马拉雅音频下载简单版.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider/喜马拉雅音频下载简单版.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/正则表达式.py" beforeDir="false" afterPath="$PROJECT_DIR$/study/正则表达式.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spider/书趣阁.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,29 +21,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/study/正则表达式.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            <state>
+              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spider/spiderl练习/学习爬虫练习/post练习.py">
+        <entry file="file://$PROJECT_DIR$/spider/spiderl练习/小说/书趣阁/书趣阁.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+            <state relative-caret-position="874">
+              <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
               <folding>
-                <element signature="e#163#184#0" expanded="true" />
+                <element signature="e#0#21#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/study/urllib函数.py">
+        <entry file="file://$PROJECT_DIR$/spider/spiderl练习/学习爬虫练习/豆瓣阅读出版社.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+            <state relative-caret-position="-9">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -64,7 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/6.9.py" />
         <option value="$PROJECT_DIR$/parrot.py" />
         <option value="$PROJECT_DIR$/7.1.py" />
         <option value="$PROJECT_DIR$/ciecle.py" />
@@ -109,18 +107,19 @@
         <option value="$PROJECT_DIR$/spider/喜马拉雅音频加强版.py" />
         <option value="$PROJECT_DIR$/spider/喜马拉雅音频下载简单版.py" />
         <option value="$PROJECT_DIR$/study/正则表达式.py" />
-        <option value="$PROJECT_DIR$/spider/书趣阁.py" />
         <option value="$PROJECT_DIR$/spider/spiderl练习/小说/书趣阁/一本小说.py" />
         <option value="$PROJECT_DIR$/spider/spiderl练习/学习爬虫练习作业/豆瓣出版社信息.py" />
         <option value="$PROJECT_DIR$/spider/spiderl练习/学习爬虫练习作业/豆瓣阅读出版社.py" />
         <option value="$PROJECT_DIR$/study/urllib函数.py" />
         <option value="$PROJECT_DIR$/spider/spiderl练习/学习爬虫练习/post练习.py" />
+        <option value="$PROJECT_DIR$/study/异常处理.py" />
+        <option value="$PROJECT_DIR$/spider/书趣阁.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="275" />
-    <option name="y" value="132" />
+    <option name="x" value="238" />
+    <option name="y" value="267" />
     <option name="width" value="1320" />
     <option name="height" value="860" />
   </component>
@@ -160,6 +159,21 @@
             <path>
               <item name="PYTHON" type="b2602c69:ProjectViewProjectNode" />
               <item name="PYTHON" type="462c0819:PsiDirectoryNode" />
+              <item name="spider" type="462c0819:PsiDirectoryNode" />
+              <item name="spiderl练习" type="462c0819:PsiDirectoryNode" />
+              <item name="小说" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PYTHON" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PYTHON" type="462c0819:PsiDirectoryNode" />
+              <item name="spider" type="462c0819:PsiDirectoryNode" />
+              <item name="spiderl练习" type="462c0819:PsiDirectoryNode" />
+              <item name="小说" type="462c0819:PsiDirectoryNode" />
+              <item name="书趣阁" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PYTHON" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PYTHON" type="462c0819:PsiDirectoryNode" />
               <item name="study" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -177,11 +191,16 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/Scripts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spider/spiderl练习/小说/书趣阁" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.语言默认值" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PYTHON\PYTHON\spider\spiderl练习\小说\书趣阁" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -195,7 +214,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.post练习">
+  <component name="RunManager" selected="Python.书趣阁">
+    <configuration name="异常处理" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PYTHON" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/study" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study/异常处理.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="书趣阁" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PYTHON" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -209,29 +250,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spider/书趣阁.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="一本小说" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PYTHON" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/spider/spiderl练习/小说/书趣阁" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spider/spiderl练习/小说/书趣阁/一本小说.py" />
+      <option name="SCRIPT_NAME" value="E:\PYTHON\PYTHON\spider\spiderl练习\小说\书趣阁\书趣阁.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -374,11 +393,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.书趣阁" />
+        <item itemvalue="Python.异常处理" />
         <item itemvalue="Python.post练习" />
         <item itemvalue="Python.urllib函数" />
         <item itemvalue="Python.豆瓣阅读出版社" />
-        <item itemvalue="Python.一本小说" />
-        <item itemvalue="Python.书趣阁" />
       </list>
     </recent_temporary>
   </component>
@@ -424,23 +443,22 @@
       <workItem from="1573160405842" duration="28600000" />
       <workItem from="1573225894128" duration="12267000" />
       <workItem from="1573238347920" duration="5698000" />
-      <workItem from="1573294667274" duration="16084000" />
+      <workItem from="1573294667274" duration="23326000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="174239000" />
+    <option name="totallyTimeSpent" value="181481000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="23" width="1550" height="848" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="23" width="1550" height="848" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14966443" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14966443" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286517" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3258427" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3258427" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -546,7 +564,7 @@
     <SUITE FILE_PATH="coverage/PYTHON$novelspider.coverage" NAME="novelspider Coverage Results" MODIFIED="1572964849097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
     <SUITE FILE_PATH="coverage/PYTHON$7_4.coverage" NAME="7.4 Coverage Results" MODIFIED="1571315551519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PYTHON$urllib.coverage" NAME="urllib函数 Coverage Results" MODIFIED="1573311173856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study" />
-    <SUITE FILE_PATH="coverage/PYTHON$.coverage" NAME="豆瓣阅读出版社 Coverage Results" MODIFIED="1573309893433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider/spiderl练习/学习爬虫练习作业" />
+    <SUITE FILE_PATH="coverage/PYTHON$.coverage" NAME="书趣阁 Coverage Results" MODIFIED="1573321666774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
     <SUITE FILE_PATH="coverage/PYTHON$post.coverage" NAME="post练习 Coverage Results" MODIFIED="1573314601512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider/spiderl练习/学习爬虫练习" />
     <SUITE FILE_PATH="coverage/PYTHON$getmessage.coverage" NAME="getmessage Coverage Results" MODIFIED="1572967093594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/微信防撤回" />
     <SUITE FILE_PATH="coverage/PYTHON$5_9.coverage" NAME="5.9 Coverage Results" MODIFIED="1571301784247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -568,9 +586,6 @@
     <SUITE FILE_PATH="coverage/PYTHON$7_8.coverage" NAME="7.8 Coverage Results" MODIFIED="1571317443492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/类.py" />
-    <entry file="file://$PROJECT_DIR$/restaurant.py" />
-    <entry file="file://$PROJECT_DIR$/aliencolor.py" />
     <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
@@ -769,33 +784,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spider/spiderl练习/小说/书趣阁/一本小说.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="27" lean-forward="true" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider/书趣阁.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider/喜马拉雅音频下载简单版.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="671">
-          <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spider/spiderl练习/学习爬虫练习作业/豆瓣出版社信息.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -854,19 +842,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/study/正则表达式.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spider/spiderl练习/学习爬虫练习/post练习.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="314">
-          <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
           <folding>
             <element signature="e#163#184#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/异常处理.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <element signature="e#256#277#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/spiderl练习/小说/书趣阁/一本小说.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="27" lean-forward="true" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/喜马拉雅音频下载简单版.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="586">
+          <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/正则表达式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/spiderl练习/学习爬虫练习/豆瓣出版社信息.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/spiderl练习/学习爬虫练习/豆瓣阅读出版社.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/spiderl练习/小说/书趣阁/书趣阁.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
           </folding>
         </state>
       </provider>
