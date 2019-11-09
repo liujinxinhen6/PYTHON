@@ -31,7 +31,7 @@ def get_HTMLpage(pageurl):
     sel = parsel.Selector(response.text)
     soundlist = sel.css('.sound-list ul li a')
     for sound in soundlist[:30]:
-        href = sound.css('a::attr(''href)').extract_first()
+        href = sound.css('a::attr(href)').extract_first()
         medium_id = href.split('/')[-1]
         title = sound.css('a::attr(title)').extract_first()
         yield medium_id, title
@@ -45,7 +45,7 @@ def get_HTMLpage(pageurl):
 
 if __name__ == '__main__':
 
-    for page in range(1,24):
+    for page in range(18,24):
         medium = get_HTMLpage('https://www.ximalaya.com/youshengshu/12642314/p'+str(page))
         for id,name in medium:
             download(get_api(id), name)
