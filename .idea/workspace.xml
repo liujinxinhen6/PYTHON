@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3c51fae-8f1e-4cfe-95a5-213de8279d1b" name="默认的" comment="默认的">
-      <change beforePath="$PROJECT_DIR$/spider/spiderl练习/学习爬虫练习/博客首页文章.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider/spiderl练习/学习爬虫练习/博客首页文章.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/spiderl练习/学习爬虫练习/豆瓣出版社信息.txt" beforeDir="false" afterPath="$PROJECT_DIR$/spider/spiderl练习/学习爬虫练习/豆瓣出版社信息.txt" afterDir="false" />
-    </list>
+    <list default="true" id="c3c51fae-8f1e-4cfe-95a5-213de8279d1b" name="默认的" comment="默认的" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +9,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -116,13 +113,6 @@
               <item name="PYTHON" type="462c0819:PsiDirectoryNode" />
               <item name="spider" type="462c0819:PsiDirectoryNode" />
               <item name="spiderl练习" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PYTHON" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PYTHON" type="462c0819:PsiDirectoryNode" />
-              <item name="spider" type="462c0819:PsiDirectoryNode" />
-              <item name="spiderl练习" type="462c0819:PsiDirectoryNode" />
-              <item name="学习爬虫练习" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PYTHON" type="b2602c69:ProjectViewProjectNode" />
@@ -434,6 +424,7 @@
       <workItem from="1573238347920" duration="5698000" />
       <workItem from="1573294667274" duration="23326000" />
       <workItem from="1573321975685" duration="10367000" />
+      <workItem from="1573388670860" duration="230000" />
     </task>
     <task id="LOCAL-00001" summary="默认的">
       <created>1573322056402</created>
@@ -453,12 +444,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="191848000" />
+    <option name="totallyTimeSpent" value="192078000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="23" width="1550" height="848" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" x="105" y="60" width="227" height="695" id="Project" order="0" visible="true" weight="0.14709851" />
+      <window_info active="true" content_ui="combo" x="105" y="60" width="227" height="695" id="Project" order="0" visible="true" weight="0.14879356" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -820,13 +811,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spider/spiderl练习/小说/书趣阁/一本小说.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="27" lean-forward="true" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/spiderl练习/小说/书趣阁/一本小说.py" />
     <entry file="file://$PROJECT_DIR$/spider/喜马拉雅音频下载简单版.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="586">
@@ -840,13 +825,7 @@
     <entry file="file://$PROJECT_DIR$/spider/spiderl练习/学习爬虫练习/豆瓣出版社信息.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/spider/spiderl练习/小说/书趣阁/书趣阁.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/spiderl练习/小说/书趣阁/书趣阁.py" />
     <entry file="file://$PROJECT_DIR$/spider/spiderl练习/小说/书趣阁/书趣阁1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-51">
