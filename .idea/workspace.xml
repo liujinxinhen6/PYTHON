@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3c51fae-8f1e-4cfe-95a5-213de8279d1b" name="默认的" comment="默认的">
+      <change afterPath="$PROJECT_DIR$/spider/spiderl练习/学习爬虫练习/博客首页文章.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,20 +13,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/study/正则表达式.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="35">
+            <state relative-caret-position="7">
               <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spider/spiderl练习/学习爬虫练习/豆瓣阅读出版社.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spider/spiderl练习/学习爬虫练习/博客首页文章.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="64">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="e#170#191#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -45,7 +49,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/parrot.py" />
         <option value="$PROJECT_DIR$/7.1.py" />
         <option value="$PROJECT_DIR$/ciecle.py" />
         <option value="$PROJECT_DIR$/7.4.py" />
@@ -96,10 +99,11 @@
         <option value="$PROJECT_DIR$/spider/spiderl练习/学习爬虫练习/post练习.py" />
         <option value="$PROJECT_DIR$/study/异常处理.py" />
         <option value="$PROJECT_DIR$/spider/书趣阁.py" />
+        <option value="$PROJECT_DIR$/spider/spiderl练习/学习爬虫练习/博客首页文章.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="237" />
     <option name="y" value="266" />
     <option name="width" value="1320" />
@@ -110,6 +114,9 @@
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <showMembers ProjectPane="true" />
+      <autoscrollToSource ProjectPane="false" />
+      <sortByType ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -142,27 +149,7 @@
             <path>
               <item name="PYTHON" type="b2602c69:ProjectViewProjectNode" />
               <item name="PYTHON" type="462c0819:PsiDirectoryNode" />
-              <item name="spider" type="462c0819:PsiDirectoryNode" />
-              <item name="spiderl练习" type="462c0819:PsiDirectoryNode" />
-              <item name="小说" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PYTHON" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PYTHON" type="462c0819:PsiDirectoryNode" />
-              <item name="spider" type="462c0819:PsiDirectoryNode" />
-              <item name="spiderl练习" type="462c0819:PsiDirectoryNode" />
-              <item name="小说" type="462c0819:PsiDirectoryNode" />
-              <item name="书趣阁" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PYTHON" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PYTHON" type="462c0819:PsiDirectoryNode" />
               <item name="study" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PYTHON" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PYTHON" type="462c0819:PsiDirectoryNode" />
-              <item name="获取免费音乐" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -177,7 +164,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -196,7 +183,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.post练习">
+  <component name="RunManager" selected="Python.博客首页文章">
     <configuration name="异常处理" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PYTHON" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -211,6 +198,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/study/异常处理.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="博客首页文章" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PYTHON" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/spider/spiderl练习/学习爬虫练习" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spider/spiderl练习/学习爬虫练习/博客首页文章.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -375,6 +384,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.博客首页文章" />
         <item itemvalue="Python.异常处理" />
         <item itemvalue="Python.post练习" />
         <item itemvalue="Python.urllib函数" />
@@ -424,22 +434,30 @@
       <workItem from="1573225894128" duration="12267000" />
       <workItem from="1573238347920" duration="5698000" />
       <workItem from="1573294667274" duration="23326000" />
-      <workItem from="1573321975685" duration="66000" />
+      <workItem from="1573321975685" duration="7598000" />
     </task>
+    <task id="LOCAL-00001" summary="默认的">
+      <created>1573322056402</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573322056403</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="181547000" />
+    <option name="totallyTimeSpent" value="189079000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="23" width="1550" height="848" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15167785" />
+      <window_info active="true" auto_hide="true" content_ui="combo" x="105" y="60" width="227" height="695" id="Project" order="0" type="SLIDING" visible="true" weight="0.15317139" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286517" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3258427" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32517985" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -531,6 +549,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/PYTHON" />
     </ignored-roots>
+    <MESSAGE value="默认的" />
+    <option name="LAST_COMMIT_MESSAGE" value="默认的" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PYTHON$jd.coverage" NAME="jd Coverage Results" MODIFIED="1573000164819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider/spiderl练习" />
@@ -550,7 +570,7 @@
     <SUITE FILE_PATH="coverage/PYTHON$novelspider.coverage" NAME="novelspider Coverage Results" MODIFIED="1572964849097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
     <SUITE FILE_PATH="coverage/PYTHON$7_4.coverage" NAME="7.4 Coverage Results" MODIFIED="1571315551519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PYTHON$urllib.coverage" NAME="urllib函数 Coverage Results" MODIFIED="1573311173856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/study" />
-    <SUITE FILE_PATH="coverage/PYTHON$.coverage" NAME="书趣阁 Coverage Results" MODIFIED="1573321666774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider" />
+    <SUITE FILE_PATH="coverage/PYTHON$.coverage" NAME="博客首页文章 Coverage Results" MODIFIED="1573383299856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider/spiderl练习/学习爬虫练习" />
     <SUITE FILE_PATH="coverage/PYTHON$post.coverage" NAME="post练习 Coverage Results" MODIFIED="1573314601512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/spider/spiderl练习/学习爬虫练习" />
     <SUITE FILE_PATH="coverage/PYTHON$getmessage.coverage" NAME="getmessage Coverage Results" MODIFIED="1572967093594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/微信防撤回" />
     <SUITE FILE_PATH="coverage/PYTHON$5_9.coverage" NAME="5.9 Coverage Results" MODIFIED="1571301784247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -572,20 +592,6 @@
     <SUITE FILE_PATH="coverage/PYTHON$7_8.coverage" NAME="7.8 Coverage Results" MODIFIED="1571317443492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="241" selection-start-line="241" selection-end-line="241" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="393" selection-start-line="393" selection-end-line="393" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/studentmanage/__init__.py" />
     <entry file="file://$PROJECT_DIR$/spider/__init__.py" />
     <entry file="file://$PROJECT_DIR$/studentmanage/stmanager.py">
@@ -673,13 +679,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/urllib/request.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="382" selection-start-line="382" selection-end-line="382" />
         </state>
       </provider>
     </entry>
@@ -795,13 +794,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spider/spiderl练习/学习爬虫练习作业/豆瓣出版社信息.txt" />
     <entry file="file://$PROJECT_DIR$/spider/spiderl练习/学习爬虫练习作业/豆瓣阅读出版社.py" />
-    <entry file="file://$PROJECT_DIR$/study/urllib函数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spider/spiderl练习/学习爬虫练习/post练习.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="314">
@@ -842,13 +834,6 @@
     <entry file="file://$PROJECT_DIR$/spider/spiderl练习/学习爬虫练习/豆瓣出版社信息.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/spider/spiderl练习/学习爬虫练习/豆瓣阅读出版社.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spider/spiderl练习/小说/书趣阁/书趣阁.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="855">
@@ -856,10 +841,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/spider/spiderl练习/小说/书趣阁/书趣阁1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51">
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/study/正则表达式.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
+        <state relative-caret-position="7">
           <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/spiderl练习/学习爬虫练习/豆瓣阅读出版社.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="11" column="123" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/urllib函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/urllib/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-264">
+          <caret line="327" selection-start-line="327" selection-end-line="327" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spider/spiderl练习/学习爬虫练习/博客首页文章.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#170#191#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
