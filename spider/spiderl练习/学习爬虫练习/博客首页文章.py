@@ -18,6 +18,7 @@ def getPageHTTP():
         url = 'https://blog.csdn.net/'
         request = urllib.request.Request(url, headers=headers)
         response = urllib.request.urlopen(request).read().decode('utf-8')
+        print(response)
         return response
     except Exception as err:
         print(err)
@@ -33,4 +34,5 @@ if __name__ == '__main__':
     html = getPageHTTP()
     httplist = gethttpList()
     for i in range(0,len(httplist)):
+        print(httplist[i])
         urllib.request.urlretrieve(httplist[i], "E:\\PYTHON\\PYTHON\\spider\\spiderl练习\\学习爬虫练习\\" + str(i) + ".html")
