@@ -1,0 +1,20 @@
+Metadata-Version: 1.1
+Name: nanomsg
+Version: 1.0
+Summary: Python library for nanomsg.
+Home-page: https://github.com/tonysimpson/nanomsg-python
+Author: Tony Simpson
+Author-email: agjasimpson@gmail.com
+License: MIT
+Description: UNKNOWN
+Keywords: nanomsg,driver
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Programming Language :: Python :: 3.3

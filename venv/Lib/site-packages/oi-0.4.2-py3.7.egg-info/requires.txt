@@ -1,0 +1,4 @@
+nose
+nanomsg
+nanoservice
+colorama
