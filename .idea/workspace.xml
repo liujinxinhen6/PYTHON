@@ -2,21 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3c51fae-8f1e-4cfe-95a5-213de8279d1b" name="默认的" comment="默认的">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/baiduwenku.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/first.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/novelspider.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/spiderl练习/jd.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/spiderl练习/picture.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/spiderl练习/yamaxun.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/喜马拉雅音频下载简单版.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/喜马拉雅音频加强版.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/淘宝商品信息.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/获取免费代理.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/微信防撤回/QR.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/微信防撤回/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/微信防撤回/getmessage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spider/spiderl练习/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spider/spiderl练习/bilibili弹幕轰炸.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spider/spiderl练习/大学排名.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spider/spiderl练习/学习爬虫练习/post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spider/spiderl练习/学习爬虫练习/post练习.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spider/spiderl练习/学习爬虫练习/博客首页文章.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spider/spiderl练习/学习爬虫练习/豆瓣出版社信息.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spider/spiderl练习/学习爬虫练习/豆瓣阅读出版社.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spider/spiderl练习/小说/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spider/spiderl练习/小说/书趣阁/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spider/spiderl练习/小说/书趣阁/书趣阁1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spider/spiderl练习/小说/书趣阁/书趣阁2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spider/spiderl练习/小说/书趣阁/元尊.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/智联招聘/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/智联招聘/zhaopin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/获取免费音乐/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/获取免费音乐/freemusic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/获取免费音乐/一路向北.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/获取免费音乐/伤心太平洋.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/获取免费音乐/夜曲.mp3" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,23 +31,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/study/爬虫知识点/用户代理及ip代理糗事百科.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="448">
-              <caret line="31" column="33" lean-forward="true" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+              <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
               <folding>
                 <element signature="e#319#328#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spider/spiderl练习/baidu.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -60,7 +56,7 @@
         <entry file="file://$PROJECT_DIR$/study/爬虫知识点/用户池构建.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="25">
-              <caret line="15" column="5" lean-forward="true" selection-start-line="14" selection-end-line="18" selection-end-column="1" />
+              <caret line="15" column="5" selection-start-line="14" selection-end-line="18" selection-end-column="1" />
               <folding>
                 <element signature="e#304#313#0" expanded="true" />
               </folding>
@@ -165,12 +161,6 @@
               <item name="PYTHON" type="b2602c69:ProjectViewProjectNode" />
               <item name="PYTHON" type="462c0819:PsiDirectoryNode" />
               <item name="spider" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PYTHON" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PYTHON" type="462c0819:PsiDirectoryNode" />
-              <item name="spider" type="462c0819:PsiDirectoryNode" />
-              <item name="spiderl练习" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -526,7 +516,7 @@
       <workItem from="1573294667274" duration="23326000" />
       <workItem from="1573321975685" duration="10367000" />
       <workItem from="1573388670860" duration="230000" />
-      <workItem from="1573389086711" duration="11246000" />
+      <workItem from="1573389086711" duration="11662000" />
     </task>
     <task id="LOCAL-00001" summary="默认的">
       <created>1573322056402</created>
@@ -546,11 +536,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="203324000" />
+    <option name="totallyTimeSpent" value="203740000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="23" width="1550" height="848" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" x="105" y="60" width="227" height="695" id="Project" order="0" visible="true" weight="0.15033557" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -909,7 +898,7 @@
     <entry file="file://$PROJECT_DIR$/study/爬虫知识点/用户池构建.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="14" selection-end-line="18" selection-end-column="1" />
+          <caret line="15" column="5" selection-start-line="14" selection-end-line="18" selection-end-column="1" />
           <folding>
             <element signature="e#304#313#0" expanded="true" />
           </folding>
@@ -974,20 +963,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/study/爬虫知识点/用户代理及ip代理糗事百科.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="31" column="33" lean-forward="true" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
-          <folding>
-            <element signature="e#319#328#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spider/spiderl练习/baidu.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/study/爬虫知识点/用户代理及ip代理糗事百科.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+          <folding>
+            <element signature="e#319#328#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
