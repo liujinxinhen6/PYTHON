@@ -22,8 +22,6 @@ def getMessage():
     return data
 
 
-
-
 def getRead(st):
     try:
         response = requests.get(f'http://www.shuquge.com/txt/99462/{st}.html', headers=headers)

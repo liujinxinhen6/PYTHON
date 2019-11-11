@@ -26,6 +26,6 @@ with open('ip.text', 'a', encoding='utf-8') as f:
                 print(ip)
                 print('ip可用')
         except:
-            print('ip无效')
+            print('')
 
 # 保存数据
