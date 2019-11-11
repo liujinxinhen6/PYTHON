@@ -17,7 +17,7 @@ def getPageHTTP():
     try:
         url = 'https://blog.csdn.net/'
         request = urllib.request.Request(url, headers=headers)
-        response = urllib.request.urlopen(request).read().decode('utf-8')
+        response = urllib.request.urlopen(request).read().decode('utf-8', 'ignore')
         print(response)
         return response
     except Exception as err:
