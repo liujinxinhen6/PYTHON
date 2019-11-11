@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3c51fae-8f1e-4cfe-95a5-213de8279d1b" name="默认的" comment="默认的">
-      <change afterPath="$PROJECT_DIR$/scrapy/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scrapy/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scrapy/.idea/scrapy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scrapy/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/爬虫知识点/XPath表达式.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/mycodes/mycode.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PYTHON.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PYTHON.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/博客/博客首页文章.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider/博客/博客首页文章.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spider/访问百度/baidu.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider/访问百度/baidu.py" afterDir="false" />
-    </list>
+    <list default="true" id="c3c51fae-8f1e-4cfe-95a5-213de8279d1b" name="默认的" comment="默认的" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +88,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-240" />
     <option name="y" value="248" />
     <option name="width" value="955" />
@@ -523,7 +512,7 @@
       <workItem from="1573469992900" duration="965000" />
       <workItem from="1573472636283" duration="173000" />
       <workItem from="1573472811388" duration="4000" />
-      <workItem from="1573472903345" duration="8696000" />
+      <workItem from="1573472903345" duration="8874000" />
     </task>
     <task id="LOCAL-00001" summary="默认的">
       <created>1573322056402</created>
@@ -543,7 +532,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="223054000" />
+    <option name="totallyTimeSpent" value="223232000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
