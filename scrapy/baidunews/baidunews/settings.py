@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Scrapy settings for taobao project
+# Scrapy settings for baidunews project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -9,17 +9,17 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'taobao'
+BOT_NAME = 'baidunews'
 
-SPIDER_MODULES = ['taobao.spiders']
-NEWSPIDER_MODULE = 'taobao.spiders'
+SPIDER_MODULES = ['baidunews.spiders']
+NEWSPIDER_MODULE = 'baidunews.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'taobao (+http://www.yourdomain.com)'
+#USER_AGENT = 'baidunews (+http://www.yourdomain.com)'
 
 # Obey robots.txt rules
-ROBOTSTXT_OBEY = False
+ROBOTSTXT_OBEY = True
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS = 32
@@ -47,13 +47,13 @@ ROBOTSTXT_OBEY = False
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    'taobao.middlewares.TaobaoSpiderMiddleware': 543,
+#    'baidunews.middlewares.BaidunewsSpiderMiddleware': 543,
 #}
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    'taobao.middlewares.TaobaoDownloaderMiddleware': 543,
+#    'baidunews.middlewares.BaidunewsDownloaderMiddleware': 543,
 #}
 
 # Enable or disable extensions
@@ -64,9 +64,9 @@ ROBOTSTXT_OBEY = False
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
-ITEM_PIPELINES = {
-    'taobao.pipelines.TaobaoPipeline': 300,
-}
+#ITEM_PIPELINES = {
+#    'baidunews.pipelines.BaidunewsPipeline': 300,
+#}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html

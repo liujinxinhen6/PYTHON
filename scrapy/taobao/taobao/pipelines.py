@@ -7,5 +7,12 @@
 
 
 class TaobaoPipeline(object):
+
     def process_item(self, item, spider):
+        for i in range(0, len(item['title'])):
+            title = item['title'][i]
+            price = item['price'][i]
+            link = item['link'][i]
+            sellnum = item['sellnum'][i]
+            print(title+':'+price+':'+link+':'+sellnum)
         return item
