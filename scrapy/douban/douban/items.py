@@ -8,7 +8,7 @@
 import scrapy
 
 
-class BaidunewsItem(scrapy.Item):
+class DoubanItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
     pass
