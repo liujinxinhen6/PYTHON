@@ -1,0 +1,9 @@
+使用math库
+	1.math.sqrt()平方根函数以下默认在math内调用
+	2.sin()正弦函数
+	3.cos()余弦函数
+	4.tan()正切
+	5.log()对数
+	6.exp()e的x次方
+	7.ceil()最小>=x 的整数
+	8.floor()最大<=x的整数

@@ -1,0 +1,7 @@
+python同时赋值
+	交换x,y的值的常用方法是用中间值:
+	temp = y	
+	y = x
+	x = temp
+	python中可以同时赋值:
+	x, y = y, x
