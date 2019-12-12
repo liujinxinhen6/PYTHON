@@ -1,0 +1,11 @@
+s.capitalize() 第一个大写s的副本
+s.center(width) 给定宽度居中 s的副本
+s.count(sub) 计算s中sub出现的次数
+s.find(sub) 未找s中的sub就出现在s中的第一个位置
+s.rfind(sub) 未找s中的sub就出现在s中的第一个位置
+lower 所有字符小写
+replace(old, new) new替换old
+rstrip 删除最右边空格
+split 分割
+title s中每个字符首字符大写
+upper 所有字符都大写
